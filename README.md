@@ -1,6 +1,19 @@
-Ricardo Tlatelpa 
- HSTAT
- Email: ricardojrt6565@hstat.org
- Hey! I am a student in HSTAT and I'm studying software engineering.
-I have software engineering first period following APUSH a really intense class about US history, then I have English honors. 4th period I take AP spanish in which I transition into Advanced Algebra.
-I then let my brain take a break and have gym, I walk up 5 flights of stairs to the lunch room, last period I have Physics which is one of my favorite classes next to Software.
+**Ricardo Tlatelpa** 
+ ##HSTAT
+ _Email:_ ricardojrt6565@hstat.org
+ **Hey! I am a student in HSTAT and I'm studying software engineering.**
+ ---
+ ###About Me
+ My hobbies are:
+ *Video games
+ *Playing Piano
+ 
+ #Schedule
+1.Software Engineering
+2.APUSH
+3.Honors English
+4.AP Spanish
+5.ADV Algebra 
+6.Gym
+7.Lunch
+8.Physics
