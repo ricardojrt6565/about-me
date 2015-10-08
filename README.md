@@ -6,7 +6,7 @@
  About Me  
  My hobbies are: 
  * Video games 
- * CSGO ..
+ * CSGO..
  * Playing Piano 
  
 # Schedule
