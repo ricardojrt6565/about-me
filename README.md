@@ -3,13 +3,13 @@
  _Email:_ ricardojrt6565@hstat.org
  **Hey! I am a student in HSTAT and I'm studying software engineering.**  
  ---
- About Me  
+ ## About Me  
  My hobbies are: 
  * Video games   
- * CSGO
+  * CSGO
  * Playing Piano 
  
-# Schedule
+# Schedule  
 1. Software Engineering
 2. APUSH
 3. Honors English 
