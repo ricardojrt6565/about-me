@@ -1,6 +1,6 @@
 **Ricardo Tlatelpa** 
  HSTAT
- __Email:__ ricardojrt6565@hstat.org
+ _Email:_ ricardojrt6565@hstat.org
  **Hey! I am a student in HSTAT and I'm studying software engineering.**  
  ---
  About Me  
@@ -8,10 +8,10 @@
  Video games 
  Playing Piano 
  
- #Schedule
+# Schedule
 1.Software Engineering
 2.APUSH
-3.Honors English
+3.Honors English 
 4.AP Spanish
 5.ADV Algebra 
 6.Gym
