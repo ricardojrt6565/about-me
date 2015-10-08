@@ -1,5 +1,5 @@
-**Ricardo Tlatelpa**   
- # HSTAT
+**Ricardo Tlatelpa JR**   
+
  [Email](ricardojrt6565@hstat.org)
  Hey! I am a student in HSTAT and I'm studying software engineering. 
  ---
@@ -8,7 +8,7 @@
  * Video games  
   * CSGO
  * Playing Piano 
- 
+## HSTAT 
 # Schedule  
 1. Software Engineering
 2. APUSH
